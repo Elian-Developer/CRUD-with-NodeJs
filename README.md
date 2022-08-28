@@ -4,12 +4,12 @@
 ## Table of contents 📄
 
 
- - [General Description](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#general-description-)
- - [Pre-requisits](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#pre-requisits)
- - [Bulid with](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#build-with-%EF%B8%8F)
- - [Author](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#author-%EF%B8%8F)
- - [License](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#author-%EF%B8%8F)
- - [Expressions of gratitude](https://github.com/Elian-Developer/Final-Project-CRUD/edit/main/README.md#expressions-of-gratitude-)
+ - [General Description](https://github.com/Elian-Developer/Final-Project-CRUD#general-description-)
+ - [Pre-requisits](https://github.com/Elian-Developer/Final-Project-CRUD#pre-requisits)
+ - [Bulid with](https://github.com/Elian-Developer/Final-Project-CRUD#build-with-%EF%B8%8F)
+ - [Author](https://github.com/Elian-Developer/Final-Project-CRUD#author-%EF%B8%8F)
+ - [License](https://github.com/Elian-Developer/Final-Project-CRUD#license-)
+ - [Expressions of gratitude](https://github.com/Elian-Developer/Final-Project-CRUD#expressions-of-gratitude-)
 
 ## General Description 📋
 
