@@ -1,4 +1,4 @@
-# *CRUD de Inventario* 📦
+# *Inventory CRUD* 📦
 
 
 ## Table of contents 📄
